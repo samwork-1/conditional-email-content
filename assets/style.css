@@ -1,0 +1,23 @@
+/*
+Default CSS Styles for Conditional Email Content plug-in
+*/
+.wrap {
+    background-color:#fff;
+    height:85vh;
+    padding:20px;
+    border-radius: 10px;
+}
+.Conditional-email-title{
+	   font-size: 30px !important;
+    background: #3F51B5;
+    padding: 20px 20px 20px 20px !important;
+    color: #fff;
+    font-weight: 600 !important;
+    border-radius: 5px;
+
+}
+p.buymeacoffee {
+    position:absolute;
+    bottom:70px;
+    right:40px;
+}
